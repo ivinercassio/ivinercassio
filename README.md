@@ -3,8 +3,10 @@
 ![Iviner's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivinercassio&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivinercassio&show_icons=true&theme=transparent&layout=compact)
 
+<img height="180em" align=right  src="https://github.com/ivinercassio/ivinercassio/assets/103161753/d6cbd81a-47cb-4cff-bb06-9ae6a0a2c50c"/>
+
 **Skills que desenvolvo**
-<div>
+<div>  
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />  
@@ -16,16 +18,22 @@
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
-  <img height="50em" style="float:right" src="https://i.gifer.com/2GU.gif" />
-  <!-- https://i.gifer.com/2GU.gif
-  <img src="https://gifer.com/embed/2GU"></img> -->
 </div>
-          
-#
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mail:ivinercassio@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iviner-cássio-106b6526b/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Iviner)
+##
+
+<div>
+  <a href="mailto:ivinercassio@gmail.com" target="_blank">
+    <img height="30em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/iviner-cássio-106b6526b/" target="_blank">
+    <img height="30em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://t.me/Iviner" target="_blank">
+    <img height="30em" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</div>
+
 
 
 <!--
