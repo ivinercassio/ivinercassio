@@ -1,12 +1,11 @@
-### Iviner aqui, blz?
+## Iviner aqui, blz?
+<div>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivinercassio&show_icons=true&theme=transparent&layout=compact"/>
+  <img height="200em" src="https://github.com/ivinercassio/ivinercassio/assets/103161753/d6cbd81a-47cb-4cff-bb06-9ae6a0a2c50c"/>
+</div>
 
-![Iviner's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivinercassio&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivinercassio&show_icons=true&theme=transparent&layout=compact)
-
-<img height="180em" align=right  src="https://github.com/ivinercassio/ivinercassio/assets/103161753/d6cbd81a-47cb-4cff-bb06-9ae6a0a2c50c"/>
-
-**Skills que desenvolvo**
 <div>  
+  <h3>Skills que desenvolvo</h3>
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />  
