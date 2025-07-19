@@ -28,7 +28,7 @@
   <a href="https://www.linkedin.com/in/iviner-cássio-106b6526b/" target="_blank">
     <img height="30em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://t.me/Iviner" target="_blank">
+  <a href="https://t.me/#" target="_blank">
     <img height="30em" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </div>
