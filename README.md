@@ -1,25 +1,10 @@
 ## Iviner aqui, blz?
-<div>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivinercassio&show_icons=true&theme=transparent&layout=compact"/>
-  <img height="200em" src="https://github.com/ivinercassio/ivinercassio/assets/103161753/d6cbd81a-47cb-4cff-bb06-9ae6a0a2c50c"/>
-</div>
+<img height="200em" src="https://github.com/ivinercassio/ivinercassio/assets/103161753/d6cbd81a-47cb-4cff-bb06-9ae6a0a2c50c"/>
 
-<div>  
-  <h3>Skills que desenvolvo</h3>
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />  
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />      
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
-</div>
-
-##
+<p>
+  <br>Buscando evolução contínua. Em competição com a minha versão de ontem!
+  <br><a href="https://ivinercassio.github.io/portfolio/" target="_blank">Viste meu site de apresentação</a>
+</p>
 
 <div>
   <a href="https://www.linkedin.com/in/ivinercassio/" target="_blank">
