@@ -3,7 +3,7 @@
 
 <p>
   <br>Buscando evolução contínua. Em competição com a minha versão de ontem!
-  <br><a href="https://ivinercassio.github.io/portfolio/" target="_blank">Viste meu site de apresentação</a>
+  <br><a href="https://ivinercassio.github.io/portfolio/" target="_blank">Visite meu site de apresentação</a>
 </p>
 
 <div>
